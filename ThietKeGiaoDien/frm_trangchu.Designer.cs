@@ -70,7 +70,6 @@
             this.thongtin.TabIndex = 7;
             this.thongtin.Text = "Thông Tin";
             this.thongtin.UseVisualStyleBackColor = true;
-            this.thongtin.UseWaitCursor = true;
             this.thongtin.Click += new System.EventHandler(this.thongtin_Click);
             // 
             // trogiup
@@ -81,7 +80,6 @@
             this.trogiup.TabIndex = 6;
             this.trogiup.Text = "Trợ Giúp";
             this.trogiup.UseVisualStyleBackColor = true;
-            this.trogiup.UseWaitCursor = true;
             this.trogiup.Click += new System.EventHandler(this.trogiup_Click);
             // 
             // guiphanhoi
@@ -92,7 +90,6 @@
             this.guiphanhoi.TabIndex = 5;
             this.guiphanhoi.Text = "Gửi Phản Hồi";
             this.guiphanhoi.UseVisualStyleBackColor = true;
-            this.guiphanhoi.UseWaitCursor = true;
             this.guiphanhoi.Click += new System.EventHandler(this.guiphanhoi_Click);
             // 
             // btn_DK

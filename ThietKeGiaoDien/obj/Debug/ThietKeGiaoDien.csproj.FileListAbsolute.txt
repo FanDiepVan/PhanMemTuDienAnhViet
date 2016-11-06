@@ -15,3 +15,6 @@ E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_tracuu.res
 E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_tratu_dichvb.resources
 E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trogiup.resources
 E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trangchu.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe.config
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.exe
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.pdb

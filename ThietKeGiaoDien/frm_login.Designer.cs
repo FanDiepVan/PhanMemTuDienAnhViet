@@ -52,7 +52,6 @@
             this.guiphanhoi.TabIndex = 0;
             this.guiphanhoi.Text = "Gửi Phản Hồi";
             this.guiphanhoi.UseVisualStyleBackColor = true;
-            this.guiphanhoi.UseWaitCursor = true;
             // 
             // trogiup
             // 
@@ -62,7 +61,6 @@
             this.trogiup.TabIndex = 1;
             this.trogiup.Text = "Trợ Giúp";
             this.trogiup.UseVisualStyleBackColor = true;
-            this.trogiup.UseWaitCursor = true;
             // 
             // thongtin
             // 
@@ -72,7 +70,6 @@
             this.thongtin.TabIndex = 2;
             this.thongtin.Text = "Thông Tin";
             this.thongtin.UseVisualStyleBackColor = true;
-            this.thongtin.UseWaitCursor = true;
             // 
             // label1
             // 
