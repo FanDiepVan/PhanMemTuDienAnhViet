@@ -1,0 +1,9 @@
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe.config
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.pdb
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.csprojResolveAssemblyReference.cache
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.Form1.resources
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.Properties.Resources.resources
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.csproj.GenerateResource.Cache
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.exe
+E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.pdb
