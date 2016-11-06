@@ -155,7 +155,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_trangchu";
-            this.Text = "TrangChu";
+            this.Text = "Trang Chủ";
             this.Load += new System.EventHandler(this.TrangChu_Load);
             this.ResumeLayout(false);
 

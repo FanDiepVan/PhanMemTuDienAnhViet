@@ -18,3 +18,17 @@ E:\CNPM\ThietKeGiaoDien\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trangchu.r
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe.config
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.exe
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.pdb
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.pdb
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.csprojResolveAssemblyReference.cache
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.Form1.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_dangky.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_login.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_phanhoi.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_phuchoipass.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_tracuu.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_tratu_dichvb.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trogiup.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.Properties.Resources.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trangchu.resources
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.csproj.GenerateResource.Cache

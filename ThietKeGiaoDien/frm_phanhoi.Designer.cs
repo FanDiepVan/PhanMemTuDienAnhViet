@@ -200,7 +200,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_phanhoi";
-            this.Text = "frm_phanhoi";
+            this.Text = "Phản Hồi";
             this.ResumeLayout(false);
             this.PerformLayout();
 

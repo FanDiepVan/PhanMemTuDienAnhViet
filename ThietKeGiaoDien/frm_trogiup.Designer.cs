@@ -160,7 +160,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_trogiup";
-            this.Text = "frm_trogiup";
+            this.Text = "Trợ Giúp";
             this.tabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
 

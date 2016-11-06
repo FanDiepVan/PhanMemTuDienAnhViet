@@ -191,7 +191,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_tracuu";
-            this.Text = "frm_tracuu";
+            this.Text = "Tra Cứu Thông Tin";
             this.ResumeLayout(false);
 
         }

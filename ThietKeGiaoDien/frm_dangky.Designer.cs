@@ -295,7 +295,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_dangky";
-            this.Text = "frm_dangky";
+            this.Text = "Đăng Ký";
             this.ResumeLayout(false);
             this.PerformLayout();
 

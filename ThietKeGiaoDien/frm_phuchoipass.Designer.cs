@@ -202,7 +202,7 @@
             this.Controls.Add(this.trogiup);
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_phuchoipass";
-            this.Text = "frm_phuchoipass";
+            this.Text = "Khôi Phục PassWord";
             this.ResumeLayout(false);
             this.PerformLayout();
 

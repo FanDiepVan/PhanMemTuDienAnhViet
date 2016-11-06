@@ -191,7 +191,7 @@
             this.Controls.Add(this.guiphanhoi);
             this.Name = "frm_login";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
-            this.Text = "Form1";
+            this.Text = "Đăng Nhập";
             this.ResumeLayout(false);
             this.PerformLayout();
 
