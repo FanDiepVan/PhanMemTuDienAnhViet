@@ -21,5 +21,13 @@ namespace ThietKeGiaoDien
         {
             this.Close();
         }
+
+        private void llb_quenpass_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            
+            Form frm = new frm_phuchoipass();
+            frm.ShowDialog();
+
+        }
     }
 }

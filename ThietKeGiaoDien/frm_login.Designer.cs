@@ -37,7 +37,7 @@
             this.tbx_mk = new System.Windows.Forms.TextBox();
             this.bt_login = new System.Windows.Forms.Button();
             this.bt_huylogin = new System.Windows.Forms.Button();
-            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.llb_quenpass = new System.Windows.Forms.LinkLabel();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -126,15 +126,16 @@
             this.bt_huylogin.UseVisualStyleBackColor = true;
             this.bt_huylogin.Click += new System.EventHandler(this.bt_huylogin_Click);
             // 
-            // linkLabel1
+            // llb_quenpass
             // 
-            this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(274, 408);
-            this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(91, 13);
-            this.linkLabel1.TabIndex = 9;
-            this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "Quên PassWord?";
+            this.llb_quenpass.AutoSize = true;
+            this.llb_quenpass.Location = new System.Drawing.Point(274, 408);
+            this.llb_quenpass.Name = "llb_quenpass";
+            this.llb_quenpass.Size = new System.Drawing.Size(91, 13);
+            this.llb_quenpass.TabIndex = 9;
+            this.llb_quenpass.TabStop = true;
+            this.llb_quenpass.Text = "Quên PassWord?";
+            this.llb_quenpass.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.llb_quenpass_LinkClicked);
             // 
             // label3
             // 
@@ -179,7 +180,7 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.linkLabel1);
+            this.Controls.Add(this.llb_quenpass);
             this.Controls.Add(this.bt_huylogin);
             this.Controls.Add(this.bt_login);
             this.Controls.Add(this.tbx_mk);
@@ -208,7 +209,7 @@
         private System.Windows.Forms.TextBox tbx_mk;
         private System.Windows.Forms.Button bt_login;
         private System.Windows.Forms.Button bt_huylogin;
-        private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.LinkLabel llb_quenpass;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
