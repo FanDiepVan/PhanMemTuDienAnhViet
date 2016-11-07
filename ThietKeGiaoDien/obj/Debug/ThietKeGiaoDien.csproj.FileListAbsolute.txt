@@ -32,3 +32,6 @@ E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_t
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.Properties.Resources.resources
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_trangchu.resources
 E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.csproj.GenerateResource.Cache
+E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe.config
+E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.exe
+E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.pdb
