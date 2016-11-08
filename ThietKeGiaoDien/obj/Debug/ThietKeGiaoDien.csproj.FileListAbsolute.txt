@@ -35,3 +35,4 @@ E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.cspro
 E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\bin\Debug\ThietKeGiaoDien.exe.config
 E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.exe
 E:\GITHUB\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.pdb
+E:\CNPM\Git\PhanMemTuDienAnhViet\ThietKeGiaoDien\obj\Debug\ThietKeGiaoDien.frm_docphanhoi.resources
