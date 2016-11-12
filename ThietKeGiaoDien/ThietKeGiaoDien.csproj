@@ -13,6 +13,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -59,6 +74,12 @@
     <Compile Include="frm_dangky.Designer.cs">
       <DependentUpon>frm_dangky.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_docphanhoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_docphanhoi.Designer.cs">
+      <DependentUpon>frm_docphanhoi.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +103,12 @@
     </Compile>
     <Compile Include="frm_tracuu.Designer.cs">
       <DependentUpon>frm_tracuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_trangquanly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_trangquanly.designer.cs">
+      <DependentUpon>frm_trangquanly.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_tratu-dichvb.cs">
       <SubType>Form</SubType>
@@ -109,6 +136,9 @@
     <EmbeddedResource Include="frm_dangky.resx">
       <DependentUpon>frm_dangky.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_docphanhoi.resx">
+      <DependentUpon>frm_docphanhoi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_login.resx">
       <DependentUpon>frm_login.cs</DependentUpon>
     </EmbeddedResource>
@@ -120,6 +150,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_tracuu.resx">
       <DependentUpon>frm_tracuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_trangquanly.resx">
+      <DependentUpon>frm_trangquanly.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_tratu-dichvb.resx">
       <DependentUpon>frm_tratu-dichvb.cs</DependentUpon>
@@ -152,6 +185,23 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
